@@ -1,0 +1,10 @@
+[
+  {
+    "package": "febr",
+    "oncran": true
+  },
+  {
+    "package": "pedometrics",
+    "oncran": true
+  }
+]
