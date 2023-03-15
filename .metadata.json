@@ -1,10 +1,10 @@
 [
   {
-    "package": "pedometrics",
+    "package": "febr",
     "oncran": true
   },
   {
-    "package": "febr",
+    "package": "pedometrics",
     "oncran": true
   }
 ]
